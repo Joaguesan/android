@@ -1,0 +1,266 @@
+{
+    "peliculas": [
+      {
+        "id": 1,
+        "pregunta": "Avatar",
+        "respostes": [
+          {
+            "id": 1,
+            "resposta": "2009",
+            "correcta": true
+          },
+          {
+            "id": 2,
+            "resposta": "2007",
+            "correcta": false
+          },
+          {
+            "id": 3,
+            "resposta": "2010",
+            "correcta": false
+          },
+          {
+            "id": 4,
+            "resposta": "2008",
+            "correcta": false
+          }
+        ],
+        "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Avatar-Logo-avatar.svg/300px-Avatar-Logo-avatar.svg.png"
+      },{
+        "id": 2,
+        "pregunta": "Avengers: Endgame",
+        "respostes": [
+          {
+            "id": 1,
+            "resposta": "2019",
+            "correcta": true
+          },
+          {
+            "id": 2,
+            "resposta": "2018",
+            "correcta": false
+          },
+          {
+            "id": 3,
+            "resposta": "2017",
+            "correcta": false
+          },
+          {
+            "id": 4,
+            "resposta": "2020",
+            "correcta": false
+          }
+        ],
+        "imatge": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Avengers_endgame_logo.png/250px-Avengers_endgame_logo.png"
+
+      },{
+        "id": 3,
+        "pregunta": "Titanic",
+        "respostes": [
+          {
+            "id": 1,
+            "resposta": "1999",
+            "correcta": false
+          },
+          {
+            "id": 2,
+            "resposta": "1997",
+            "correcta": true
+          },
+          {
+            "id": 3,
+            "resposta": "2000",
+            "correcta": false
+          },
+          {
+            "id": 4,
+            "resposta": "1995",
+            "correcta": false
+          }
+        ],
+        "imatge": "https://i.blogs.es/4a9cb1/titanic/840_560.jpeg"
+      },{
+        "id": 4,
+        "pregunta": "Frozen",
+        "respostes": [
+          {
+            "id": 1,
+            "resposta": "2015",
+            "correcta": false
+          },
+          {
+            "id": 2,
+            "resposta": "2010",
+            "correcta": false
+          },
+          {
+            "id": 3,
+            "resposta": "2012",
+            "correcta": false
+          },
+          {
+            "id": 4,
+            "resposta": "2013",
+            "correcta": true
+          }
+        ],
+        "imatge": "https://img2.rtve.es/v/2170774?w=1600&preview=1385454850455.jpg"
+      },{
+        "id": 5,
+        "pregunta": "Harry Potter y las Reliquias de la Muerte: Parte 2",
+        "respostes": [
+          {
+            "id": 1,
+            "resposta": "2010",
+            "correcta": false
+          },
+          {
+            "id": 2,
+            "resposta": "2014",
+            "correcta": false
+          },
+          {
+            "id": 3,
+            "resposta": "2012",
+            "correcta": false
+          },
+          {
+            "id": 4,
+            "resposta": "2011",
+            "correcta": true
+          }
+        ],
+        "imatge": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/11/harry-potter-reliquias-muerte-parte-ii.jpg?tf=2048x"
+      },{
+        "id": 6,
+        "pregunta": "007: Skyfall",
+        "respostes": [
+          {
+            "id": 1,
+            "resposta": "2013",
+            "correcta": false
+          },
+          {
+            "id": 2,
+            "resposta": "2014",
+            "correcta": false
+          },
+          {
+            "id": 3,
+            "resposta": "2012",
+            "correcta": true
+          },
+          {
+            "id": 4,
+            "resposta": "2016",
+            "correcta": false
+          }
+        ],
+        "imatge":"https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2012/10/192453-007-critica-skyfall.jpg?tf=3840x" 
+        },{
+        "id": 7,
+        "pregunta": "Jurassic Park",
+        "respostes": [
+          {
+            "id": 1,
+            "resposta": "1994",
+            "correcta": false
+          },
+          {
+            "id": 2,
+            "resposta": "1993",
+            "correcta": true
+          },
+          {
+            "id": 3,
+            "resposta": "2001",
+            "correcta": false
+          },
+          {
+            "id": 4,
+            "resposta": "1996",
+            "correcta": false
+          }
+        ],
+        "imatge": "https://cope-cdnmed.agilecontent.com/resources/jpg/8/3/1621492345138.jpg"
+      },{
+        "id": 8,
+        "pregunta": "Piratas del Caribe: El Cofre de la Muerte",
+        "respostes": [
+          {
+            "id": 1,
+            "resposta": "2006",
+            "correcta": true
+          },
+          {
+            "id": 2,
+            "resposta": "2002",
+            "correcta": false
+          },
+          {
+            "id": 3,
+            "resposta": "2004",
+            "correcta": false
+          },
+          {
+            "id": 4,
+            "resposta": "2007",
+            "correcta": false
+          }
+        ],
+        "imatge": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5469EE2D321E84D908A9747840666FF9C3895F17B5B1D4D2735B1249894E11C9/scale?width=1200&aspectRatio=1.78&format=jpeg"
+      },{
+        "id": 9,
+        "pregunta": "El Rey León",
+        "respostes": [
+          {
+            "id": 1,
+            "resposta": "1993",
+            "correcta": false
+          },
+          {
+            "id": 2,
+            "resposta": "1994",
+            "correcta": true
+          },
+          {
+            "id": 3,
+            "resposta": "2000",
+            "correcta": false
+          },
+          {
+            "id": 4,
+            "resposta": "1999",
+            "correcta": false
+          }
+        ],
+        "imatge": "https://static.wikia.nocookie.net/doblaje/images/e/e0/Lion_king_1.jpg/revision/latest?cb=20200726001925&path-prefix=es"
+      },{
+        "id": 10,
+        "pregunta": "Hola, Mamá",
+        "respostes": [
+          {
+            "id": 1,
+            "resposta": "2014",
+            "correcta": false
+          },
+          {
+            "id": 2,
+            "resposta": "1992",
+            "correcta": false
+          },
+          {
+            "id": 3,
+            "resposta": "2003",
+            "correcta": false
+          },
+          {
+            "id": 4,
+            "resposta": "2021",
+            "correcta": true
+          }
+        ],
+        "imatge": "https://pics.filmaffinity.com/Hi_Mom-933234876-large.jpg"
+      }
+    ]
+    }
