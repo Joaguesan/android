@@ -234,7 +234,7 @@
             "correcta": false
           }
         ],
-        "imatge": "https://static.wikia.nocookie.net/doblaje/images/e/e0/Lion_king_1.jpg/revision/latest?cb=20200726001925&path-prefix=es"
+        "imatge": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D3429E72F594CA84B8448FE5F8BDE1773505217A9541297CB1E85719EC8D686C/scale?width=1200&aspectRatio=1.78&format=jpeg"
       },{
         "id": 10,
         "pregunta": "Hola, Mamá",
@@ -260,7 +260,7 @@
             "correcta": true
           }
         ],
-        "imatge": "https://pics.filmaffinity.com/Hi_Mom-933234876-large.jpg"
+        "imatge": "https://filmmusicreporter.com/wp-content/uploads/2021/03/vca-33.jpg"
       }
     ]
     }

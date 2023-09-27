@@ -1,8 +1,12 @@
 package com.example.p0mobil;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Peliculas {
-    List<Pregunta> preguntas;
+    ArrayList<Pregunta> preguntas;
+    public Peliculas(ArrayList<Pregunta> preguntas){
+        this.preguntas=preguntas;
+    }
 }
  
