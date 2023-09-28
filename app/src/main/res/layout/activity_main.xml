@@ -11,16 +11,17 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#3F51B5"
-        android:text="Adivina la pelicula!"
+        android:text="Adivina el año!"
         android:textColor="#000000"
         android:textSize="47dp" />
 
     <ScrollView
+        android:id="@+id/scroll"
         android:layout_width="match_parent"
         android:layout_height="669dp"
         android:layout_below="@+id/titulo"
         android:layout_marginTop="-1dp"
-        android:background="#1B2D8E">
+        android:background="#008B8B">
 
         <LinearLayout
             android:id="@+id/linear"
@@ -28,13 +29,10 @@
             android:layout_height="wrap_content"
             android:orientation="vertical" >
 
-                        <Button
-                android:id="@+id/boton"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Button" />
+
 
         </LinearLayout>
+
     </ScrollView>
 
 </RelativeLayout>
